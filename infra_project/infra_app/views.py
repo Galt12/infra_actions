@@ -6,4 +6,4 @@ def index(request):
 
 
 def second_page(request):
-    return HttpResponse('А это вторая страница!')
+    return HttpResponse('А это вторая страница!docker build -t billglasses/gates:v2.11.1989 .')
